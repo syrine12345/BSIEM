@@ -1,0 +1,14 @@
+{
+  "name": "bsiem-master",
+  "version": "1.0.0",
+  "description": "_A blockchain-based and distributed SIEM for the Internet of Things_",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
